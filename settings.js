@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Dhul botz" //namabot kalian
-global.ownername= "Fadhil ganz" //nama kalian
+global.botname = "IBNU-MD" //namabot kalian
+global.ownername= "IBNU-MD" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "padilploject@gmail.com" //bebas
+global.youtube = "https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj" //bebas asal jan hapus
+global.github = "https://github.com/POOJJHG/Hyzer-MD-V3" //bebas
+global.email = "ibnu57a@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285600204672" // nomor wa kalian
-global.ownernomerr = "085600204672" //nmr wa kalian
+global.ownernomer = "621807254833" // nomor wa kalian
+global.ownernomerr = "17123505613" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["085600204672","087761098709"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Dhul botz' //sticker wm ubah
-global.author = 'Di Buat Oleh padhul' //sticker wm ganti nama kalian
+global.owner = ["081807254833","17123505613"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© IBNU-MD' //sticker wm ubah
+global.author = 'Di Buat IBNU OFFICIAL' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, Oke ini~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
